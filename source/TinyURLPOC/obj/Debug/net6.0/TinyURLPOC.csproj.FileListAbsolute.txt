@@ -1,0 +1,15 @@
+D:\Users\Roshack\Desktop\PublicProjects\TinyURLPOC\bin\Debug\net6.0\TinyURLPOC.exe
+D:\Users\Roshack\Desktop\PublicProjects\TinyURLPOC\bin\Debug\net6.0\TinyURLPOC.deps.json
+D:\Users\Roshack\Desktop\PublicProjects\TinyURLPOC\bin\Debug\net6.0\TinyURLPOC.runtimeconfig.json
+D:\Users\Roshack\Desktop\PublicProjects\TinyURLPOC\bin\Debug\net6.0\TinyURLPOC.dll
+D:\Users\Roshack\Desktop\PublicProjects\TinyURLPOC\bin\Debug\net6.0\ref\TinyURLPOC.dll
+D:\Users\Roshack\Desktop\PublicProjects\TinyURLPOC\bin\Debug\net6.0\TinyURLPOC.pdb
+D:\Users\Roshack\Desktop\PublicProjects\TinyURLPOC\obj\Debug\net6.0\TinyURLPOC.csproj.AssemblyReference.cache
+D:\Users\Roshack\Desktop\PublicProjects\TinyURLPOC\obj\Debug\net6.0\TinyURLPOC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Roshack\Desktop\PublicProjects\TinyURLPOC\obj\Debug\net6.0\TinyURLPOC.AssemblyInfoInputs.cache
+D:\Users\Roshack\Desktop\PublicProjects\TinyURLPOC\obj\Debug\net6.0\TinyURLPOC.AssemblyInfo.cs
+D:\Users\Roshack\Desktop\PublicProjects\TinyURLPOC\obj\Debug\net6.0\TinyURLPOC.csproj.CoreCompileInputs.cache
+D:\Users\Roshack\Desktop\PublicProjects\TinyURLPOC\obj\Debug\net6.0\TinyURLPOC.dll
+D:\Users\Roshack\Desktop\PublicProjects\TinyURLPOC\obj\Debug\net6.0\ref\TinyURLPOC.dll
+D:\Users\Roshack\Desktop\PublicProjects\TinyURLPOC\obj\Debug\net6.0\TinyURLPOC.pdb
+D:\Users\Roshack\Desktop\PublicProjects\TinyURLPOC\obj\Debug\net6.0\TinyURLPOC.genruntimeconfig.cache

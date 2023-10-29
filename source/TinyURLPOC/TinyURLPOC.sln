@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TinyURLPOC", "TinyURLPOC.csproj", "{5550030B-71FC-4252-8876-47DA69129B2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TinyURLPOC.Test", "..\TinyURLPOC.Test\TinyURLPOC.Test.csproj", "{F9B6065A-3F89-4028-81D1-05F109EE018B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5550030B-71FC-4252-8876-47DA69129B2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5550030B-71FC-4252-8876-47DA69129B2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5550030B-71FC-4252-8876-47DA69129B2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5550030B-71FC-4252-8876-47DA69129B2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9B6065A-3F89-4028-81D1-05F109EE018B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9B6065A-3F89-4028-81D1-05F109EE018B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9B6065A-3F89-4028-81D1-05F109EE018B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9B6065A-3F89-4028-81D1-05F109EE018B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8DBA0A6-D9A8-48EE-BFE8-D8B547AE11CD}
+	EndGlobalSection
+EndGlobal
