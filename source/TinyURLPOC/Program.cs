@@ -43,7 +43,7 @@ namespace TinyURLPOC
             controller.GetLongUrl(shortUrl);
 
             //Getting statistics on the number of times a short URL has been "clicked" i.e. the number of times its long URL has been retrieved.
-            controller.GetOriginalUrlCalls(longUrl);
+            controller.GetOriginalUrlCount(longUrl);
 
 
         }

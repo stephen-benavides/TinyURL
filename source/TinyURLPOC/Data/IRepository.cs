@@ -11,7 +11,7 @@ namespace TinyURLPOC.Data
         List<T> GetAll();
         T GetById(string input);
         void Add(T obj);
-        void Remove(int id);
-        T Update(T obj);
+        bool Remove(string key);
+        bool Update(T obj);
     }
 }

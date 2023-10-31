@@ -41,10 +41,11 @@ namespace TinyURLPOC.Parser
         /// </summary>
         /// <param name="tinyUrl"></param>
         /// <returns></returns>
-        public string DecodeUrl(string tinyUrl)
+        public string DecodeTinyUrl(string tinyUrl)
         {
             var uri = GetUri(tinyUrl, Constants.TinyUrlDomain);
-            return _enconding.Decode(uri);
+            //return _enconding.Decode(uri);
+            return uri;
         }
         /// <summary>
         /// Mocked method to get the 'URI' of the request

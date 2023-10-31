@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\Roshack\\Desktop\\PublicProjects\\TinyURLPOC\\TinyURLPOC.csproj": {}
+    "D:\\Users\\Roshack\\Desktop\\New folder\\TinyUrlPOCsource\\TinyURLPOC\\TinyURLPOC.csproj": {}
   },
   "projects": {
-    "D:\\Users\\Roshack\\Desktop\\PublicProjects\\TinyURLPOC\\TinyURLPOC.csproj": {
+    "D:\\Users\\Roshack\\Desktop\\New folder\\TinyUrlPOCsource\\TinyURLPOC\\TinyURLPOC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\Roshack\\Desktop\\PublicProjects\\TinyURLPOC\\TinyURLPOC.csproj",
+        "projectUniqueName": "D:\\Users\\Roshack\\Desktop\\New folder\\TinyUrlPOCsource\\TinyURLPOC\\TinyURLPOC.csproj",
         "projectName": "TinyURLPOC",
-        "projectPath": "D:\\Users\\Roshack\\Desktop\\PublicProjects\\TinyURLPOC\\TinyURLPOC.csproj",
+        "projectPath": "D:\\Users\\Roshack\\Desktop\\New folder\\TinyUrlPOCsource\\TinyURLPOC\\TinyURLPOC.csproj",
         "packagesPath": "C:\\Users\\Roshack\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\Roshack\\Desktop\\PublicProjects\\TinyURLPOC\\obj\\",
+        "outputPath": "D:\\Users\\Roshack\\Desktop\\New folder\\TinyUrlPOCsource\\TinyURLPOC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

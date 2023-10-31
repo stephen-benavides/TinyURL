@@ -78,7 +78,7 @@ namespace TinyURLPOC.Helpers
             var userInput = ReadUserInput(input);
             if (String.IsNullOrEmpty(userInput))
                 return false;
-            Regex regex = new Regex(Constants.RegexAliasPattern, RegexOptions.IgnoreCase);
+            Regex regex = new Regex(Constants.RegexAliasPattern);
             var matchRegex = regex.Match(userInput);
             return matchRegex.Success;
         }
